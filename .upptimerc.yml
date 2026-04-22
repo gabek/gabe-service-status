@@ -5,10 +5,14 @@ repo: gabe-service-status
 sites:
   - name: Nextcloud
     url: https://nextcloud.real-ity.com
+  - name: The Bat Station
+    url: listen.batstationrad.io 
   - name: Owncast Demo Server
     url: https://watch.owncast.online/
   - name: Owncast Nightly
     url: https://nightly.owncast.tv/
+  - name: Owncast Directory
+    url: https://owncast.directory
 
 status-website:
   name: Service Status
