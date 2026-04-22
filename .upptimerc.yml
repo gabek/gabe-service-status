@@ -1,0 +1,20 @@
+# Upptime config — https://upptime.js.org/docs/configuration
+owner: gabek
+repo: gabe-service-status
+
+sites:
+  - name: Nextcloud
+    url: https://nextcloud.real-ity.com
+  - name: Owncast Demo Server
+    url: https://watch.owncast.online/
+  - name: Owncast Nightly
+    url: https://nightly.owncast.tv/
+
+status-website:
+  cname: status.gigl.ist
+  name: Service Status
+  introTitle: "Gabe's status page"
+  introMessage: Status for misc services.
+  navbar:
+    - title: Status
+      href: /
