@@ -16,8 +16,9 @@ sites:
 
 status-website:
   name: Service Status
+  baseUrl: /gabe-service-status
   introTitle: "Gabe's status page"
   introMessage: Status for misc services.
   navbar:
     - title: Status
-      href: /
+      href: /gabe-service-status
