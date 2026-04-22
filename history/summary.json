@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Nextcloud",
+    "url": "https://nextcloud.real-ity.com",
+    "icon": "https://icons.duckduckgo.com/ip3/nextcloud.real-ity.com.ico",
+    "slug": "nextcloud",
+    "status": "down",
+    "uptime": "91.11%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "91.11%",
+    "uptimeMonth": "91.11%",
+    "uptimeYear": "91.11%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-22": 0
+    }
+  },
+  {
+    "name": "Owncast Demo Server",
+    "url": "https://watch.owncast.online/",
+    "icon": "https://icons.duckduckgo.com/ip3/watch.owncast.online.ico",
+    "slug": "owncast-demo-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Owncast Nightly",
+    "url": "https://nightly.owncast.tv/",
+    "icon": "https://icons.duckduckgo.com/ip3/nightly.owncast.tv.ico",
+    "slug": "owncast-nightly",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
+    "dailyMinutesDown": {}
+  }
+]
