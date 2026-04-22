@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.real-ity.com.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "78.92%",
-    "uptimeDay": "78.92%",
-    "uptimeWeek": "78.92%",
-    "uptimeMonth": "78.92%",
-    "uptimeYear": "78.92%",
+    "uptime": "7.83%",
+    "uptimeDay": "7.83%",
+    "uptimeWeek": "7.83%",
+    "uptimeMonth": "7.83%",
+    "uptimeYear": "7.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-22": 0
+      "2026-04-22": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 861,
-    "timeWeek": 861,
-    "timeMonth": 861,
-    "timeYear": 861,
+    "time": 575,
+    "timeDay": 575,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 353,
-    "timeWeek": 353,
-    "timeMonth": 353,
-    "timeYear": 353,
+    "time": 739,
+    "timeDay": 739,
+    "timeWeek": 739,
+    "timeMonth": 739,
+    "timeYear": 739,
     "dailyMinutesDown": {}
   }
 ]
