@@ -5,6 +5,8 @@ repo: gabe-service-status
 sites:
   - name: Nextcloud
     url: https://nextcloud.real-ity.com
+  - name: social.gabekangas.com
+    url: https://social.gabekangas.com/
   - name: The Bat Station
     url: listen.batstationrad.io 
   - name: Owncast Demo Server
