@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.real-ity.com.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "0.03%",
+    "uptime": "0.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 60,
+      "2026-04-25": 55,
+      "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 18
     }
@@ -27,27 +28,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.gabekangas.com.ico",
     "slug": "social-gabekangas-com",
     "status": "down",
-    "uptime": "0.58%",
-    "uptimeDay": "0.58%",
-    "uptimeWeek": "0.58%",
-    "uptimeMonth": "0.58%",
-    "uptimeYear": "0.58%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-04-24": 60,
-      "2026-04-23": 23
-    }
-  },
-  {
-    "name": "The Bat Station",
-    "url": "listen.batstationrad.io",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "the-bat-station",
-    "status": "down",
     "uptime": "0.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.03%",
@@ -59,7 +39,30 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 60,
+      "2026-04-25": 55,
+      "2026-04-24": 1440,
+      "2026-04-23": 23
+    }
+  },
+  {
+    "name": "The Bat Station",
+    "url": "listen.batstationrad.io",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "the-bat-station",
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-25": 55,
+      "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 10
     }
@@ -75,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 794,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "time": 657,
+    "timeDay": 685,
+    "timeWeek": 657,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -93,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 464,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "time": 568,
+    "timeDay": 223,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -111,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 305,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "time": 352,
+    "timeDay": 232,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   }
 ]
