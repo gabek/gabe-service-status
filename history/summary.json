@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.real-ity.com.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "81.72%",
-    "uptimeDay": "56.67%",
-    "uptimeWeek": "60.98%",
-    "uptimeMonth": "85.29%",
-    "uptimeYear": "81.72%",
+    "uptime": "81.32%",
+    "uptimeDay": "40.98%",
+    "uptimeWeek": "57.64%",
+    "uptimeMonth": "84.16%",
+    "uptimeYear": "81.32%",
     "time": 916,
-    "timeDay": 973,
-    "timeWeek": 1071,
+    "timeDay": 1038,
+    "timeWeek": 1085,
     "timeMonth": 975,
     "timeYear": 916,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2026-06-28": 649,
       "2026-06-29": 522,
       "2026-06-30": 612,
-      "2026-07-01": 77
+      "2026-07-01": 570
     }
   },
   {
@@ -56,16 +56,16 @@
     "url": "https://social.gabekangas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/social.gabekangas.com.ico",
     "slug": "social-gabekangas-com",
-    "status": "down",
-    "uptime": "85.99%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "75.37%",
-    "uptimeMonth": "91.25%",
-    "uptimeYear": "85.99%",
+    "status": "up",
+    "uptime": "85.56%",
+    "uptimeDay": "44.61%",
+    "uptimeWeek": "71.39%",
+    "uptimeMonth": "90.14%",
+    "uptimeYear": "85.56%",
     "time": 711,
-    "timeDay": 394,
-    "timeWeek": 870,
-    "timeMonth": 784,
+    "timeDay": 561,
+    "timeWeek": 875,
+    "timeMonth": 783,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2026-04-25": 108,
@@ -87,7 +87,7 @@
       "2026-06-28": 383,
       "2026-06-29": 652,
       "2026-06-30": 374,
-      "2026-07-01": 77
+      "2026-07-01": 565
     }
   },
   {
@@ -107,7 +107,7 @@
     "timeMonth": 180,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-07-01": 77,
+      "2026-07-01": 570,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -204,11 +204,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nightly.owncast.tv.ico",
     "slug": "owncast-nightly",
     "status": "up",
-    "uptime": "81.49%",
+    "uptime": "81.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.49%",
+    "uptimeYear": "81.58%",
     "time": 505,
     "timeDay": 243,
     "timeWeek": 644,
