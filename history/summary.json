@@ -4,17 +4,17 @@
     "url": "https://nextcloud.real-ity.com",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.real-ity.com.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "79.90%",
-    "uptimeDay": "69.54%",
-    "uptimeWeek": "49.60%",
-    "uptimeMonth": "79.19%",
+    "uptimeDay": "69.07%",
+    "uptimeWeek": "49.54%",
+    "uptimeMonth": "79.17%",
     "uptimeYear": "79.90%",
-    "time": 918,
-    "timeDay": 930,
-    "timeWeek": 819,
-    "timeMonth": 974,
-    "timeYear": 918,
+    "time": 1045,
+    "timeDay": 3687,
+    "timeWeek": 1241,
+    "timeMonth": 1170,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2026-04-25": 108,
       "2026-04-24": 1440,
@@ -51,7 +51,7 @@
       "2026-07-02": 857,
       "2026-07-01": 1440,
       "2026-07-03": 409,
-      "2026-07-04": 43
+      "2026-07-04": 50
     }
   },
   {
@@ -59,17 +59,17 @@
     "url": "https://social.gabekangas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/social.gabekangas.com.ico",
     "slug": "social-gabekangas-com",
-    "status": "down",
-    "uptime": "85.09%",
-    "uptimeDay": "75.29%",
-    "uptimeWeek": "67.33%",
-    "uptimeMonth": "87.78%",
-    "uptimeYear": "85.09%",
-    "time": 1137,
-    "timeDay": 2960,
-    "timeWeek": 1969,
-    "timeMonth": 1370,
-    "timeYear": 1137,
+    "status": "up",
+    "uptime": "85.08%",
+    "uptimeDay": "75.27%",
+    "uptimeWeek": "67.22%",
+    "uptimeMonth": "87.75%",
+    "uptimeYear": "85.08%",
+    "time": 1283,
+    "timeDay": 2941,
+    "timeWeek": 2304,
+    "timeMonth": 1571,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2026-04-25": 108,
       "2026-04-24": 1440,
@@ -93,7 +93,7 @@
       "2026-07-01": 656,
       "2026-07-02": 550,
       "2026-07-03": 354,
-      "2026-07-04": 38
+      "2026-07-04": 49
     }
   },
   {
@@ -113,7 +113,7 @@
     "timeMonth": 171,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-07-04": 55,
+      "2026-07-04": 66,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
