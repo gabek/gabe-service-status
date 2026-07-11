@@ -113,7 +113,7 @@
     "timeMonth": 157,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-07-11": 339,
+      "2026-07-11": 386,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -219,17 +219,17 @@
     "url": "https://nightly.owncast.tv/",
     "icon": "https://icons.duckduckgo.com/ip3/nightly.owncast.tv.ico",
     "slug": "owncast-nightly",
-    "status": "down",
-    "uptime": "83.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "83.87%",
-    "time": 517,
-    "timeDay": 499,
-    "timeWeek": 550,
-    "timeMonth": 516,
-    "timeYear": 517,
+    "status": "up",
+    "uptime": "83.83%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "83.83%",
+    "time": 516,
+    "timeDay": 460,
+    "timeWeek": 534,
+    "timeMonth": 513,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2026-05-28": 1301,
       "2026-05-27": 1440,
@@ -244,7 +244,7 @@
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1268,
-      "2026-07-11": 0
+      "2026-07-11": 47
     }
   },
   {
