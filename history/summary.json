@@ -4,17 +4,17 @@
     "url": "https://nextcloud.real-ity.com",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.real-ity.com.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "87.51%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "87.51%",
-    "time": 964,
-    "timeDay": 634,
-    "timeWeek": 793,
-    "timeMonth": 710,
-    "timeYear": 964,
+    "time": 961,
+    "timeDay": 547,
+    "timeWeek": 751,
+    "timeMonth": 702,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2026-04-25": 108,
       "2026-04-24": 1440,
@@ -54,7 +54,7 @@
       "2026-07-04": 425,
       "2026-07-16": 236,
       "2026-07-17": 96,
-      "2026-08-20": 5
+      "2026-08-20": 7
     }
   },
   {
@@ -118,7 +118,7 @@
     "timeMonth": 145,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2026-08-20": 1369,
+      "2026-08-20": 1371,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
