@@ -4,11 +4,11 @@
     "url": "https://nextcloud.real-ity.com",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.real-ity.com.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "87.51%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "87.51%",
     "time": 955,
     "timeDay": 604,
@@ -55,7 +55,7 @@
       "2026-07-16": 236,
       "2026-07-17": 96,
       "2026-08-20": 23,
-      "2026-08-21": 26
+      "2026-08-21": 33
     }
   },
   {
@@ -63,17 +63,17 @@
     "url": "https://social.gabekangas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/social.gabekangas.com.ico",
     "slug": "social-gabekangas-com",
-    "status": "down",
-    "uptime": "90.84%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "90.84%",
-    "time": 1171,
-    "timeDay": 281,
-    "timeWeek": 405,
-    "timeMonth": 480,
-    "timeYear": 1171,
+    "status": "up",
+    "uptime": "90.83%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "90.83%",
+    "time": 1166,
+    "timeDay": 262,
+    "timeWeek": 385,
+    "timeMonth": 471,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2026-04-25": 108,
       "2026-04-24": 1440,
@@ -101,7 +101,7 @@
       "2026-07-16": 218,
       "2026-07-17": 90,
       "2026-08-20": 18,
-      "2026-08-21": 58
+      "2026-08-21": 78
     }
   },
   {
@@ -121,7 +121,7 @@
     "timeMonth": 145,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2026-08-21": 264,
+      "2026-08-21": 287,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
