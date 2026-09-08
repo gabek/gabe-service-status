@@ -1,7 +1,7 @@
 url: https://nightly.owncast.tv/
-status: up
-code: 200
-responseTime: 564
-lastUpdated: 2026-09-07T23:11:30.406Z
+status: down
+code: 503
+responseTime: 245
+lastUpdated: 2026-09-08T03:00:22.166Z
 startTime: 2026-04-22T23:41:58.054Z
 generator: Upptime <https://github.com/upptime/upptime>
