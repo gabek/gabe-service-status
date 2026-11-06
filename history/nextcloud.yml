@@ -1,7 +1,7 @@
 url: https://nextcloud.real-ity.com
-status: up
-code: 200
-responseTime: 867
-lastUpdated: 2026-11-05T23:06:21.453Z
+status: down
+code: 502
+responseTime: 251
+lastUpdated: 2026-11-06T18:16:05.788Z
 startTime: 2026-04-22T23:41:25.429Z
 generator: Upptime <https://github.com/upptime/upptime>
